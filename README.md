@@ -1,4 +1,4 @@
-# Christopher Hazell — Capstone Portfolio
+# Christopher Hazell â€” Capstone Portfolio
 
 Professional case study for Machine Learning Assisted Network Anomaly Detection.
 
@@ -16,3 +16,7 @@ Static HTML and CSS, published through GitHub Pages from the main branch root. N
 - Project brief covering implementation, testing, deployment, and limitations
 
 The classifier results describe an inspected evaluation split and do not establish production readiness or independent generalization.
+
+## Final Unit 8 refresh
+
+The public case study now includes the final recorded presentation, slide PDF, separate fresh-model validation metrics and comparison chart, 72-test local regression result, bounded workload evidence, and the executed local recovery result. Historical dashboard metrics remain labeled as an inspected split. Independent external validation and remaining security limits are explicit.
