@@ -34,7 +34,7 @@ The restricted non-root Docker run completed the real-data comparison. The 108 b
 ## Final presentation
 https://drive.google.com/file/d/1u0YgdYLryu9okjnbDBIemov_FUEC6TkI/view?usp=sharing
 
-Slides: PresentationSlides_Christopher_Hazell.pdf, available through the portfolio.
+Slides: MSIT 5910-01 Unit 8 Final Presentation Slides.pdf, available through the portfolio.
 
 ## Scope and future work
 No live packet capture, automatic blocking, authentication, TLS termination, durable audit database, independent user acceptance study, or production deployment is claimed. Future work prioritizes genuinely independent data, transfer-failure diagnosis, dependency remediation, usability studies, and operational security controls.
